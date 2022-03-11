@@ -1,5 +1,4 @@
 import argparse
-from traceback import print_tb
 
 import urllib
 import os
